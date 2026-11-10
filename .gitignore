@@ -1,0 +1,8 @@
+.env
+yetkiler.txt
+*.exe
+*.spec
+__pycache__/
+dist/
+build/
+build_log.txt
